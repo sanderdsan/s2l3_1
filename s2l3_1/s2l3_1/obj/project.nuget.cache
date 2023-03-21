@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vcLVRUnNYdJMyxNyvftOq1oY0s3/mXhU2JvWjlp5nUMluZoDDg6djol+ey8cVFFHvqtFNdVsioNouT0VPaQiGw==",
+  "success": true,
+  "projectFilePath": "D:\\приколи\\programing\\C\\csh\\s2l3_1\\s2l3_1\\s2l3_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Олександр\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Олександр\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
